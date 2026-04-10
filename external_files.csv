@@ -1,1 +1,13 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/SMS/Sega SG-1000 Manuals/Borderline.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FBorderline.pdf,114785,29bdd58ec3b0236e7024a77a30be57df,,,Borderline.pdf
+docs/SMS/Sega SG-1000 Manuals/Champion Golf.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FChampion%20Golf.pdf,511301,e907060806f942e54a1bb83d3c3bac72,,,Champion Golf.pdf
+docs/SMS/Sega SG-1000 Manuals/Champion Tennis.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FChampion%20Tennis.pdf,547175,54086f18c4b4919b2ee1dc43bddd0e94,,,Champion Tennis.pdf
+docs/SMS/Sega SG-1000 Manuals/Congo Bongo.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FCongo%20Bongo.pdf,387465,8710bd9be7f09cfce41f0955bd949ad5,,,Congo Bongo.pdf
+docs/SMS/Sega SG-1000 Manuals/Exerion.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FExerion.pdf,528883,c8d6d2baac5886be2adcc10e3800dd88,,,Exerion.pdf
+docs/SMS/Sega SG-1000 Manuals/Lode Runner.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FLode%20Runner.pdf,413725,2e0a09c62127f4f02618cba3051f6d42,,,Lode Runner.pdf
+docs/SMS/Sega SG-1000 Manuals/Pacar.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FPacar.pdf,512364,6fdd6fb51ff65bc66d8687fa0a326ee7,,,Pacar.pdf
+docs/SMS/Sega SG-1000 Manuals/Safari Hunting.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FSafari%20Hunting.pdf,534801,8d0a92252a7539a6f690eac1d5c010eb,,,Safari Hunting.pdf
+docs/SMS/Sega SG-1000 Manuals/Safari Race.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FSafari%20Race.pdf,183714,2db1815a7cdbc82def1106f5871defcd,,,Safari Race.pdf
+docs/SMS/Sega SG-1000 Manuals/Sega Flipper.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FSega%20Flipper.pdf,501490,b4dc8d06a0a0b160305881be225eff97,,,Sega Flipper.pdf
+docs/SMS/Sega SG-1000 Manuals/Sindbad Mystery.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FSindbad%20Mystery.pdf,156078,878c0e389381eab2baa9aaea124f8795,,,Sindbad Mystery.pdf
+docs/SMS/Sega SG-1000 Manuals/Yamato.pdf,https://archive.org/download/mister-manuals/1983_Sega%20SG-1000.zip/1983_Sega%20SG-1000%2FYamato.pdf,532117,7ad23d20c9594591bc101b9971e307b7,,,Yamato.pdf
